@@ -136,3 +136,5 @@ This removes the analyzed string (by its hash key) from memory.
 ## 🧑‍💻 Author
 **Salifu Williams Eneojo**  
 📧 williamseneojo@example.com  
+Stack: Node.js / Express
+HNG Internship 2025
